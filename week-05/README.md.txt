@@ -1,0 +1,1 @@
+questionare, what did I struggle with? what did I do?

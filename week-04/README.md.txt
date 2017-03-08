@@ -1,0 +1,1 @@
+compare 2 websites + what did i do / struggle with?
