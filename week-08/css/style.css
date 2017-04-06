@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Oswald');
+
+h1 {
+
+    color: #000000;
+
+    font-family: 'Anton', san-serif;
+
+    font-size: 60px;
+border style: solid;
+
+    text-align: center;}
+h1:hover {color: #8B0000}
+
+
+h2 {
+
+    color: #000000;
+
+    font-family: 'Anton', san-serif;
+
+    font-size: 30px;
+
+    text-align: center;}
+
+
+
+h3 {
+
+    color: #000000;
+
+    font-family:'Anton', san-serif;
+font-size: 30px;
+
+    text-align: center;}
+
+h4 {
+color: #000000;
+font-family:'Anton', san-serif;
+font-size:30px;
+text-align: center;}
+
+h5 {
+color: #000000;
+font-family:'Anton', san-serif;
+font-size:30px;
+text-align:center;}
+
+
+body {
+
+      color: #000000;
+
+      font-family: 'Oswald', san-serif;
+
+      font-size: 16px;
+
+      line-height: 1.4em;
+
+      text-align: center;
+
+      text-indent: 25px;
+
+      word-spacing: normal;
+
+      background-color: #696969;
+}
+
+
+
+
+
+#news-title { 
+
+              background-color: #FFFAF0;
+              padding: 5px;}
+
+#song { background-color: #8B0000;
+padding:40px;}
+
