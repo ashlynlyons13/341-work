@@ -4,4 +4,4 @@ Now that I know the commands for a questionaire and contact page, those requirem
 
 learning how to embed videos from the internet was really valuable because youtube has so much content these days, it's hepful to be able to share that with your webpage.
 
-<img src = "images/HW 6 screenshot" alt = "screenshot" title = "screenshot" width = "800" height = "800">
+<img src = "images/HW 6 screenshot.jpg" alt = "screenshot" title = "screenshot" width = "800" height = "800">
