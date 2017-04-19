@@ -1,0 +1,108 @@
+style.css
+body {
+  text-align: center;
+  font-family: 'Playfair Display', Serif;
+  background-color: #8B0000;}
+
+p {
+    text-indent: 20px;
+    text-align: center
+}
+
+h1 {font-family: 'Playfair Display', Serif;
+text-align: center;}
+
+header {
+    margin: 1;
+    padding: 1;
+}
+
+.lower-header {
+
+    margin: 1;
+    background-color: #E9967A;
+    height: auto;
+    display: flex;
+text-align: center;
+    flex-wrap: wrap;
+    width: inherit;
+}
+
+.site-name {
+  :font-family: 'Playfair Display', Serif;
+    text-align: center;
+    padding: 25px;
+
+    font-weight: light;
+    font-size: 2.4em;
+    color: #FFEFD5;
+}
+
+.container {
+
+  display: flex;
+
+  flex-wrap: wrap;
+}
+
+.c1 {width: 100%;
+background-color: #FFEFD5
+}
+ .c2 {width: 100%;
+ background-color: #FFA07A
+ }
+ .c3 {width: 100%;
+ background-color: ##FFA07A
+ }
+
+
+
+ @media (min-width: 340px) 
+
+{
+.c3 {
+     width: 100%;
+
+   }
+   .c1 {
+     width: 100%;
+
+   }
+
+   .c2 {
+     width: 100%;
+
+   }
+@media (min-width: 550px) {
+
+ .c3 {
+    width: 100%;
+}
+  .c1 {
+    width: 100%;
+}
+ .c2 {
+    width: 100%;
+}
+
+
+}
+
+
+@media screen and (min-width: 1025px) 
+
+  .c1 {
+
+    width: 100%;
+}
+  .c2 {
+    width: 50%;
+
+
+  }
+
+  .c3 {
+    width: 50%;
+    height: auto;
+
+}
