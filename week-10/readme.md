@@ -10,4 +10,4 @@ In my page you find A standard title,
 two standard text boxes answering two of the questions on our hw wiki and two images
 with a light pink color scheme to match the pink that exist in the images I chose prior to creating my webpage.
 
-<img src="images/sketch.png" alt="sketch" title="sketch" height="800" width="800"/>
+<img src="images/sketch.PNG" alt="sketch" title="sketch" height="800" width="800"/>
